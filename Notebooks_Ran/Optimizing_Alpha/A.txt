@@ -1,1 +1,2 @@
-This repo contains notebooks ran during alpha parameter optimization
+This repo contains output got during alpha parameter optimization (models of LSTM and BiLSTM)
+varying alpha, constant gamma.
